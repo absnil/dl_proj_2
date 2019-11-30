@@ -1,4 +1,4 @@
-Download model files from the drive link https://drive.google.com/open?id=1YrgFOqFtJkiOS0atr6QTtuPhUAX9RyQu
+Download model files from the drive link https://drive.google.com/drive/folders/1YrgFOqFtJkiOS0atr6QTtuPhUAX9RyQu?usp=sharing
 under the folder 'sentiment analysis without embedding matrix'
                                         or
 Please the run the entire code first to generate the models.
